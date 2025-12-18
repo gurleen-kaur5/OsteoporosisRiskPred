@@ -82,8 +82,10 @@ The project integrates **SHAP (SHapley Additive exPlanations)** to ensure transp
 ├── app.py                          # Flask backend
 ├── index.html                      # Frontend UI
 ├── style.css                       # Styling
+├── requirements.txt                # Dependencies installation
 ├── script.js                       # Frontend logic
 └── README.md                       # Project documentation
+
 ```
 
 ---
